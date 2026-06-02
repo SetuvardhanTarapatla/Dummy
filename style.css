@@ -1,12 +1,13 @@
 body {
+    background-color: rgb(94, 99, 21); 
     background-color: rgb(229, 235, 143); 
     background-color: rgb(229, 235, 143); /* whole page background */
 }
 
 h1 {
-    color: rgb(38, 46, 200);
-    background-color: rgb(241, 176, 242);
-    border: 1px solid rgb(69, 183, 236); 
+    color: rgb(183, 184, 199);
+    background-color: rgb(29, 2, 30);
+    border: 1px solid rgb(69, 236, 166); 
     padding: 10px;
     text-align: center; 
 }
